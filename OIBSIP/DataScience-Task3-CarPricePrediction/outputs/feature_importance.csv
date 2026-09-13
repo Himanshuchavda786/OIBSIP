@@ -1,0 +1,1101 @@
+Feature,Importance
+num__Max Power,0.6238056035893677
+num__Fuel Tank Capacity,0.07140590959088872
+num__Year,0.04279290117561516
+num__Car Age,0.04191250837850197
+num__Width,0.04025945660466985
+num__Length,0.03997996475974139
+num__Kilometer,0.02921296658452794
+num__Max Torque,0.016560111053618196
+num__Engine,0.013524060511578121
+num__Height,0.010963320301065137
+cat__Model_Range Rover 3.0 V6 Diesel Vogue,0.007344014076693448
+cat__Fuel Type_Hybrid,0.004181970151185537
+cat__Model_Vellfire Hybrid,0.004039781523898
+cat__Model_S-Class S 450,0.0027141276701595986
+cat__Model_Range Rover 3.0 V6 Diesel Vogue LWB,0.0026236164320058283
+cat__Brand_Mercedes-Benz,0.0023229852203229128
+cat__Model_E-Class 200,0.0022727115075971897
+cat__Make_Mercedes-Benz,0.0022448289244949853
+cat__Transmission_Manual,0.002231762395986275
+cat__Make_Porsche,0.0019745833951874806
+cat__Brand_Porsche,0.001881878292995016
+cat__Transmission_Automatic,0.0018340858061148056
+num__Seating Capacity,0.0017081232445307762
+cat__Location_Mumbai,0.001464550692577148
+cat__Color_White,0.0012964210928995596
+cat__Make_Land Rover,0.0010908727716290095
+cat__Location_Hyderabad,0.0010373298272184468
+cat__Brand_Land Rover,0.0009266101647523255
+cat__Owner_Unregistered Car,0.0009028963402720659
+cat__Color_Blue,0.0008892989603303751
+cat__Model_S-Class Maybach S 500,0.0008169650421118006
+cat__Location_Delhi,0.0007553013448644897
+cat__Model_GLC 220 d Sport,0.0006876435483668474
+cat__Drivetrain_Awd,0.0006699307156769267
+cat__Fuel Type_Diesel,0.0006683706457045725
+cat__Color_Black,0.0006291413452985975
+cat__Model_Huracan LP 610-4,0.0006238154627552644
+cat__Model_Panamera 3.0 Diesel,0.0006233117557580973
+cat__Owner_First,0.0006065997360543102
+cat__Drivetrain_Rwd,0.0005920875496410569
+cat__Make_Rolls-Royce,0.0005740952540700169
+cat__Owner_Second,0.0005646910802756231
+cat__Model_Cayenne Coupe Platinum Edition,0.0004994566750660343
+cat__Brand_Jaguar,0.0004766575249180801
+cat__Make_MINI,0.0004603076674394368
+cat__Color_Silver,0.0004522862255392178
+cat__Make_Jaguar,0.0004244423231450576
+cat__Brand_Rolls-Royce,0.00040250343111486616
+cat__Brand_Audi,0.00040086870549119424
+cat__Model_GLE 300d 4MATIC LWB,0.00040010058319133086
+cat__Model_Q5 35 TDI Premium Plus,0.00039185788886052415
+cat__Location_Bangalore,0.0003884529271233694
+cat__Make_Audi,0.000368916358604164
+cat__Brand_MINI,0.0003578925765848956
+cat__Drivetrain_Fwd,0.0003111739730024462
+cat__Model_Discovery 3.0 TDV6 HSE,0.00029198082830872625
+cat__Location_Pune,0.00028644549718464526
+cat__Model_Commuter HiAce 3.0 L,0.00026293090762214213
+cat__Model_GLC 220 d Progressive,0.00025941377638645014
+cat__Fuel Type_Petrol,0.0002443363969152397
+cat__Color_Grey,0.00024060948172184712
+cat__Location_Chennai,0.00023962407305982622
+cat__Model_Macan Base [2019-2020],0.00021721703008208585
+cat__Brand_BMW,0.00021693768724650883
+cat__Model_A6 2.0 TFSi Technology Pack,0.00019923553731560762
+cat__Color_Red,0.00018766162523356196
+cat__Make_Hyundai,0.00017792999012756325
+cat__Model_Cayenne Turbo,0.00017113817221248252
+cat__Make_BMW,0.0001694206933717222
+cat__Make_Lamborghini,0.00016775671598166198
+cat__Seller Type_Individual,0.00016703340089195697
+cat__Seller Type_Corporate,0.00016172861478424484
+cat__Owner_Third,0.0001608982878545465
+cat__Model_Range Rover Sport SDV6 SE,0.00015672058921857687
+cat__Location_Ahmedabad,0.00014475252032789739
+cat__Brand_Hyundai,0.00014277436536626076
+cat__Model_Evoque SE Dynamic,0.0001368607702969429
+cat__Model_X3 xDrive 20d Luxury Line [2018-2020],0.00013426261255635068
+cat__Model_S-Class S 500,0.00011535964955256471
+cat__Location_Ludhiana,0.00011177608875682669
+cat__Brand_Lamborghini,0.0001081910843918295
+cat__Model_Ghost 6.5,0.00010805671822243878
+cat__Model_E-Class E 220d Exclusive [2019-2019],0.00010756682196870213
+cat__Model_Cooper D 3 Door,0.00010730540237560564
+cat__Model_Cayenne 3.2 V6 Petrol,0.00010554599503349971
+cat__Model_Ghost Extended Wheelbase,0.00010374225552538779
+cat__Location_Dehradun,0.00010197610934255224
+cat__Brand_Ford,0.00010162325244536752
+cat__Model_X5 xDrive30d xLine,0.00010001444891851274
+cat__Location_Gurgaon,9.856142385990843e-05
+cat__Location_Faridabad,9.841033068189447e-05
+cat__Model_3-Series 320d Prestige,9.567322601113833e-05
+cat__Model_5-Series 520d Luxury Line [2017-2019],9.503465120807473e-05
+cat__Model_Range Rover Velar 2.0 S Petrol 250,9.498075974583196e-05
+cat__Model_Discovery Sport S,9.101652837727083e-05
+cat__Make_MG,9.050843569247957e-05
+cat__Make_Tata,8.97890978473218e-05
+cat__Model_Range Rover Sport SE 2.0 Petrol,8.520365029934194e-05
+cat__Location_Chandigarh,8.39323219680565e-05
+cat__Make_Ford,8.357138943318964e-05
+cat__Model_S-Class Maybach S 560,7.829566952934739e-05
+cat__Brand_MG,7.76927243251903e-05
+cat__Color_Brown,7.691734290696522e-05
+cat__Location_Mohali,7.377589644664726e-05
+cat__Model_GLA 200 d Sport,7.336853568144307e-05
+cat__Model_S-Class S 350 CDI,7.307988391881067e-05
+cat__Location_Noida,7.28290062299758e-05
+cat__Location_Kolkata,7.204767132627507e-05
+cat__Model_GLC 220d 4MATIC Progressive,7.108809070263798e-05
+cat__Model_Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,7.090014632897541e-05
+cat__Model_Santa Fe 2WD AT [2014-2017],6.99259634216717e-05
+cat__Brand_Mahindra,6.731567199048642e-05
+cat__Make_Skoda,6.72123392977566e-05
+cat__Brand_Skoda,6.674403309205287e-05
+cat__Model_C-Class C 43 AMG,6.551607962443914e-05
+cat__Model_Kodiaq L&K 2.0 TDI 4x4 AT,6.524803100403e-05
+cat__Make_Toyota,6.134186616197077e-05
+cat__Model_C-Class C200 Progressive,5.6336577243613956e-05
+cat__Model_F-Pace Prestige,5.5234290251194004e-05
+cat__Make_Lexus,5.282552430299795e-05
+cat__Brand_Tata,5.167677695187699e-05
+cat__Model_XF 3.0 V6 Premium Luxury,5.111162695784924e-05
+cat__Make_Mahindra,5.0845641484754454e-05
+cat__Model_GLS 400 4MATIC,4.957631583989492e-05
+cat__Model_A4 30 TFSI Premium Plus,4.745666774105079e-05
+cat__Model_GLE 250 d,4.679995026432344e-05
+cat__Brand_Toyota,4.42721487597241e-05
+cat__Model_Range Rover Sport SDV6 HSE,4.416017302341659e-05
+cat__Model_GLE 350 d,4.388341016877573e-05
+cat__Model_GLS 350 d,4.387360488889299e-05
+cat__Model_3-Series 330i M Sport Edition,4.278784630068337e-05
+cat__Color_Green,3.906572650083212e-05
+cat__Brand_Lexus,3.8691814440521615e-05
+cat__Model_E-Class E 220d Expression [2019-2019],3.747940755140486e-05
+cat__Brand_Chevrolet,3.6363375597500114e-05
+cat__Model_X6 xDrive40i M Sport,3.5722131482248775e-05
+cat__Location_Navi Mumbai,3.563662862043307e-05
+cat__Model_V-Class Elite LWB,3.426003673052411e-05
+cat__Model_E-Class E 220 d Avantgarde,3.152801661009788e-05
+cat__Make_Chevrolet,3.108157321391619e-05
+cat__Model_TT 2.0 TFSI Quattro,3.079999681623017e-05
+cat__Model_X1 sDrive20d xLine,3.0302008976787445e-05
+cat__Model_Q7 45 TDI Premium Plus,2.996358453841557e-05
+cat__Location_Lucknow,2.9773719976471712e-05
+cat__Model_Innova 2.4 ZX 7 STR [2016-2020],2.8232596417145438e-05
+cat__Model_5-Series 530d M Sport,2.8113568077504193e-05
+cat__Model_C-Class C 200 Progressive [2018-2020],2.7615087616053653e-05
+cat__Model_Discovery Sport SE R-Dynamic Petrol,2.6192936995524663e-05
+cat__Model_C-Class 220 CDI AT,2.5946960690271873e-05
+cat__Model_M-Class ML 350 CDI,2.527390749582518e-05
+cat__Color_Maroon,2.506947988947113e-05
+cat__Model_Q7 Technology 55 TFSI,2.4680299192141766e-05
+cat__Model_City ZX Diesel,2.4631946398934893e-05
+cat__Model_Superb L&K TSI AT,2.454952423219577e-05
+cat__Model_GLS 400d 4MATIC,2.439299330531222e-05
+cat__Color_Bronze,2.4103713954329372e-05
+cat__Model_A4 30 TFSI Technology Pack,2.404982969422161e-05
+cat__Model_S90 D4 Inscription,2.368860886644387e-05
+cat__Model_5-Series 530d M Sport [2013-2017],2.3523993494362697e-05
+cat__Model_C-Class Cabriolet C 300,2.3479760269834728e-05
+cat__Model_LX SUV Petrol,2.3258548758331805e-05
+cat__Model_Mustang GT Fastback 5.0L v8,2.325750092862749e-05
+cat__Model_Compass Model S (O) Diesel 4x4 AT,2.3253679841481757e-05
+cat__Location_Coimbatore,2.2847239683370346e-05
+cat__Model_718 Boxster,2.2388008310247503e-05
+cat__Color_Purple,2.2323405673539675e-05
+cat__Model_A8 3.0 TDI quattro,2.119477379920954e-05
+cat__Model_Macan S [2019-2020],2.0598783818960893e-05
+cat__Model_Cooper D 5 Door,2.0468827580230447e-05
+cat__Model_XF R 5.0 V8 Supercharged,1.960194880848937e-05
+cat__Model_Compass Model S (O) 1.4 Petrol DCT,1.850422702775072e-05
+cat__Model_Kodiaq Style 2.0 TDI 4x4 AT,1.8254741547552003e-05
+cat__Model_5-Series 520d M Sport,1.820710247039067e-05
+cat__Model_Alto VXI,1.7996640542622905e-05
+cat__Location_Surat,1.7719264936155162e-05
+cat__Model_Discovery HSE,1.7505476383569568e-05
+cat__Model_A6 35 TDI Matrix,1.7351410006074953e-05
+cat__Model_3-Series 320d Luxury Line,1.703228734690156e-05
+cat__Location_Indore,1.694600573328173e-05
+cat__Brand_Maruti Suzuki,1.6932944451912917e-05
+cat__Model_X3 xDrive-20d xLine,1.6781853519556953e-05
+cat__Model_Q7 35 TDI Premium + Sunroof,1.6238535527743166e-05
+cat__Location_Jaipur,1.591922448806783e-05
+cat__Model_Hexa XT 4x2 6 STR,1.5799609317728447e-05
+cat__Model_Q3 30 TDI Premium FWD,1.5744611116343125e-05
+cat__Model_S-Class S 350D [2018-2020],1.5608361084255446e-05
+cat__Make_Jeep,1.5402912832042667e-05
+cat__Model_X5 xDrive 30d,1.5380383639438595e-05
+cat__Brand_Ssangyong,1.5360267227325014e-05
+cat__Model_C-Class C 220 CDI Avantgarde,1.5251391568070935e-05
+cat__Model_E-Class E 200 Exclusive [2019-2019],1.4683212764535323e-05
+cat__Model_ES 300h Exquisite [2020-2021],1.4668008998800473e-05
+cat__Model_CLS 300d [2018-2019],1.4612267374125898e-05
+cat__Location_Raipur,1.460493435224579e-05
+cat__Make_Volvo,1.4566684811047715e-05
+cat__Model_Discovery Sport HSE Luxury,1.4236664057541523e-05
+cat__Brand_Volvo,1.4119128683550667e-05
+cat__Model_7-Series 730Ld DPE,1.4081674841358165e-05
+cat__Brand_Jeep,1.4048509684920417e-05
+cat__Model_Superb L&K TDI AT,1.3995763761204982e-05
+cat__Model_XC60 Inscription,1.3711631867917247e-05
+cat__Model_A3 35 TFSI Premium Plus,1.3613586771952175e-05
+cat__Model_A4 2.0 TDI Sline,1.3513050300999327e-05
+cat__Model_Innova 2.5 VX 7 STR BS-III,1.3442721729197534e-05
+cat__Make_Maruti Suzuki,1.3210746809348119e-05
+cat__Model_5-Series 530i Sport Line,1.3152173301185443e-05
+cat__Model_SLK-Class SLK 200 K,1.3103104507570229e-05
+cat__Model_7-Series 730Ld M Sport,1.3012613137714118e-05
+cat__Model_Alcazar Signature (O) 7 Seater 1.5 Diesel AT,1.2958196140391608e-05
+cat__Location_Jalandhar,1.2894871500617448e-05
+cat__Model_GL-Class 350 CDI,1.2609018744622115e-05
+cat__Model_C-Class 220 CDI Elegance AT,1.2282309594198292e-05
+cat__Location_Kanpur,1.2241480410234397e-05
+cat__Model_Q7 45 TDI Technology Pack,1.1844930084897932e-05
+cat__Model_Compass Limited (O) 2.0 Diesel [2017-2020],1.1832944303113446e-05
+cat__Location_Patna,1.178874107951801e-05
+cat__Location_Ghaziabad,1.172360048731245e-05
+cat__Location_Udupi,1.1707455603870592e-05
+cat__Model_5-Series 520d Sport Line,1.169686598506855e-05
+cat__Model_X7 xDrive40i M Sport,1.168427894885562e-05
+cat__Location_Karnal,1.168376485824235e-05
+cat__Model_Cruze LTZ AT,1.1559803042779887e-05
+cat__Make_Volkswagen,1.1514667703831926e-05
+cat__Model_Hexa XE 4x2 7 STR,1.1471371131231904e-05
+cat__Color_Gold,1.1362262301806356e-05
+cat__Model_Range Rover Sport SDV6 S,1.1317798013175425e-05
+cat__Model_XJ 3.0 Portfolio,1.0936841983089726e-05
+cat__Make_Ssangyong,1.0925945631010114e-05
+cat__Model_A-Class Sedan 200d,1.069685306733179e-05
+cat__Model_C-Class C 200 Avantgarde,1.0571260131183695e-05
+cat__Model_E-Class E 250 CDI Avantgarde,1.0380945344580974e-05
+cat__Model_GLC 220d 4MATIC Progressive [2019-2021],9.9572113273277e-06
+cat__Model_GLC 200 Progressive,9.949270868801246e-06
+cat__Brand_Honda,9.774592199673998e-06
+cat__Model_Discovery 2.0 HSE 4WD Diesel,9.493442703104646e-06
+cat__Location_Nashik,9.446881185709592e-06
+cat__Model_RS5 4.2 Coupe,9.421637254158444e-06
+cat__Model_S90 Momentum D4 [2018-2020],9.313160342986374e-06
+cat__Model_Cayenne Platinum Edition Diesel,9.309868893775859e-06
+cat__Model_X1 sDrive20d Expedition,8.941663125952347e-06
+cat__Brand_Volkswagen,8.893078622950352e-06
+cat__Make_Honda,8.87945604825365e-06
+cat__Model_X3 xDrive20d,8.681220775241405e-06
+cat__Model_C-Class C 220d Progressive [2018-2019],8.569468910937962e-06
+cat__Model_5-Series 520d Modern Line,8.28206288484194e-06
+cat__Model_Q2 Premium Plus I 40 TFSI quattro,7.922397659022081e-06
+cat__Model_Innova 2.5 V 7 STR,7.854444471614243e-06
+cat__Model_GLE 43 4MATIC [2017-2019],7.76197713263615e-06
+cat__Model_S-Class 350 L,7.700286139760407e-06
+cat__Brand_Kia,7.473082720072151e-06
+cat__Model_Compass Limited Plus 2.0 Diesel 4x4 AT,7.46286291569084e-06
+cat__Model_Tiguan Highline TDI,7.432328928573823e-06
+cat__Model_Superb Style TSI AT,7.366807245957556e-06
+cat__Model_ES 300h,7.319141994950254e-06
+cat__Location_Ranchi,7.303477702528964e-06
+cat__Model_Q5 40 TDI Premium Plus,7.133241546978978e-06
+cat__Model_Fortuner 3.0 MT,6.974109279951532e-06
+cat__Model_Q5 2.0 TDI quattro Technology Pack,6.961286322505204e-06
+cat__Model_X5 xDrive 30d M Sport,6.7776958611823014e-06
+cat__Model_XE Prestige Diesel,6.701219217758454e-06
+cat__Model_Fortuner 2.8 4x2 AT [2016-2020],6.63847432534204e-06
+cat__Model_A6 2.0 TDI Premium,6.618739385598362e-06
+cat__Model_V40 D3 R-Design,6.614791443436423e-06
+cat__Model_E-Class E 350 d Exclusive [2017-2019],6.59652788624603e-06
+cat__Model_Elantra SX (O) 2.0 AT,6.381210927234736e-06
+cat__Location_Mirzapur,6.205960768557505e-06
+cat__Model_X4 xDrive30d M Sport X [2019-2020],6.078878158802598e-06
+cat__Color_Yellow,6.039691961895878e-06
+cat__Model_Innova 2.4 ZX AT 7 STR,5.952059452160099e-06
+cat__Color_Beige,5.935062219369095e-06
+cat__Model_Q3 35 TDI quattro Premium Plus,5.731678199240678e-06
+cat__Model_A3 35 TDI Premium Plus + Sunroof,5.731246121317561e-06
+cat__Color_Orange,5.637528059827869e-06
+cat__Model_Fortuner 3.0 4x4 MT,5.605970805498475e-06
+cat__Location_Thane,5.555318237764667e-06
+cat__Model_3-Series 320d Luxury Line [2014-2016],5.551827369428671e-06
+cat__Location_Vadodara,5.525789381879407e-06
+cat__Model_Q3 35 TDI Premium + Sunroof,5.52291805060508e-06
+cat__Location_Agra,5.463361203743953e-06
+cat__Model_XUV500 W10,5.383558263475863e-06
+cat__Model_Octavia Style 1.8 TSI AT,5.279249594093231e-06
+cat__Model_3-Series 320d Luxury Edition,5.244541918300798e-06
+cat__Model_XJ 3.0 V6 Portfolio,5.2409635664234196e-06
+cat__Model_Tucson GL 2WD AT Diesel,5.17067451517588e-06
+cat__Model_Fortuner 3.0 4x2 AT,5.024872864417875e-06
+cat__Model_Innova 2.8 ZX AT 7 STR [2016-2020],4.8407868276116485e-06
+cat__Model_Rexton RX7,4.817637685719676e-06
+cat__Model_A3 35 TDI Premium,4.815217362501956e-06
+cat__Model_X5 xDrive30d Pure Experience (5 Seater),4.703480133699057e-06
+cat__Model_XUV500 W11,4.651438363922475e-06
+cat__Model_A4 35 TDI Technology,4.545591567789691e-06
+cat__Model_S-Class 300,4.45433864711493e-06
+cat__Model_Tigor EV XZ Plus,4.374430438217376e-06
+cat__Model_XUV500 W11 (O) AT,4.325873958285999e-06
+cat__Model_Wagon R VXi 1.0 [2019-2019],4.323373686156672e-06
+cat__Model_XUV300 1.5 W6 [2019-2020],4.284649124988932e-06
+cat__Model_Elantra 2.0 SX (O) AT,4.230316929836593e-06
+cat__Model_Scorpio S10,4.2009581275008696e-06
+cat__Model_C-Class 220 BlueEfficiency,4.130110098083793e-06
+cat__Model_Q3 35 TDI quattro Technology,4.122285854014932e-06
+cat__Model_Vento Highline Petrol AT,4.074386470885561e-06
+cat__Model_CR-V 2.4 AT,4.022096593708597e-06
+cat__Model_Creta 1.6 SX Plus AT,4.0032286214655365e-06
+cat__Model_XUV500 W10 AT,3.8096603019099828e-06
+cat__Location_Zirakpur,3.715450396604053e-06
+cat__Location_Mysore,3.6978008002826057e-06
+cat__Model_S-Class 350,3.6444307599573337e-06
+cat__Model_Rexton RX6,3.6433464911820686e-06
+cat__Model_Octavia 1.8 TSI Style Plus AT [2017],3.6407591159953666e-06
+cat__Make_Kia,3.63662778783409e-06
+cat__Model_Thar LX 4-STR Hard Top Petrol MT,3.631368471091175e-06
+cat__Model_Endeavour Titanium Plus 3.2 4x4 AT,3.565818472204509e-06
+cat__Model_Creta 1.6 S Plus AT,3.5311930463220366e-06
+cat__Model_Q3 2.0 TDI quattro Premium,3.4809076651011973e-06
+cat__Model_Sonata 2.0 CRDi,3.479377062289882e-06
+cat__Model_6-Series GT 630d Luxury Line [2018-2019],3.465327691957458e-06
+cat__Model_M-Class 350 CDI,3.431993848148225e-06
+cat__Model_A3 40 TFSI Premium,3.3688805288441727e-06
+cat__Model_Fortuner 2.8 4x4 AT [2016-2020],3.3059664046819105e-06
+cat__Model_Q3 35 TDI Technology,3.2927680829150913e-06
+cat__Brand_Nissan,3.2865501263293554e-06
+cat__Model_Cooper JCW Hatchback,3.2538796204016076e-06
+cat__Model_Accord 2.4 AT,3.2481327066431455e-06
+cat__Model_Countryman Cooper D,3.24299017627948e-06
+cat__Model_GLA 200 CDI Sport,3.22859932420435e-06
+cat__Model_E-Class 280 CDI Elegance,3.2281498771459802e-06
+cat__Model_Scorpio SLE BS-IV,3.225321088557826e-06
+cat__Model_Q3 35 TDI Premium Plus + Sunroof,3.13530179242494e-06
+cat__Model_Endeavour 3.0L 4x4 AT,3.131855494437911e-06
+cat__Model_Fortuner 2.8 4x2 MT [2016-2020],3.11718524334513e-06
+cat__Model_Verna SX Plus 1.6 CRDi AT,3.113124307813862e-06
+cat__Model_Teana 250XL,3.103755040011898e-06
+cat__Model_A6 2.0 TDI Premium Plus,3.093343135247502e-06
+cat__Model_V40 D3 Kinetic,3.0161239029846346e-06
+cat__Model_City S Diesel,3.0120883949319865e-06
+cat__Model_Creta 1.6 SX Plus AT Petrol,2.9661318430732513e-06
+cat__Model_3-Series 320d Sport Line,2.9626272240071527e-06
+cat__Model_Innova 2.4 G 7 STR [2016-2017],2.924299355059191e-06
+cat__Model_M-Class ML 250 CDI,2.898810721351102e-06
+cat__Model_XF Prestige Diesel CBU,2.85950627446464e-06
+cat__Make_Nissan,2.8095828968587965e-06
+cat__Model_Creta SX 1.5 Petrol CVT [2020-2022],2.7431982182808955e-06
+cat__Model_Vitara Brezza ZDi,2.7422602264472024e-06
+cat__Model_GLA 200 Sport,2.737459954023338e-06
+cat__Location_Ambala Cantt,2.728985575208786e-06
+cat__Model_Q7 3.0 TDI quattro Premium,2.7151701360866616e-06
+cat__Model_Ertiga ZDi,2.670919531755489e-06
+cat__Model_Innova ZX 2.7 AT 7 STR,2.646878107242756e-06
+cat__Model_Pajero 2.5 AT,2.512507781156922e-06
+cat__Location_Kota,2.5059085353612216e-06
+cat__Model_5-Series 525d Sedan,2.4872221683325558e-06
+cat__Location_Salem,2.446067198310791e-06
+cat__Owner_Fourth,2.4362423473749633e-06
+cat__Fuel Type_Electric,2.305064814482416e-06
+cat__Model_Evoque Dynamic SD4,2.2739806207229216e-06
+cat__Color_Others,2.2705214254785993e-06
+cat__Model_E-Class E350 CDI Avantgarde,2.250242154937294e-06
+cat__Location_Goa,2.2308739838704444e-06
+cat__Model_Thar LX 4-STR Hard Top Diesel AT,2.2053148756048117e-06
+cat__Location_Mangalore,2.198460084484507e-06
+cat__Model_Hector Sharp 2.0 Diesel [2019-2020],2.1719637122245944e-06
+cat__Model_Wrangler Rubicon,2.1572306944480538e-06
+cat__Model_XUV300 W8 (O) 1.5 Diesel,2.109295339079628e-06
+cat__Model_Endeavour Titanium 3.2 4x4 AT,2.06261196541884e-06
+cat__Model_Corolla Altis VL AT Petrol,2.0620202482037653e-06
+cat__Model_Compass Longitude (O) 2.0 Diesel [2017-2020],2.061406503482683e-06
+cat__Model_A4 1.8 TFSI Multitronic Premium Plus,2.0421186141990344e-06
+cat__Model_Evoque HSE Dynamic,2.0327616737490126e-06
+cat__Model_City SV,2.0299094217646433e-06
+cat__Model_City VX CVT Petrol [2017-2019],2.002363433508406e-06
+cat__Model_S-Class 500L,1.998837042888175e-06
+cat__Model_XUV700 AX 7 Diesel AT 7 STR,1.9581543777407254e-06
+cat__Model_Safari 2.2 VX 4x2 Varicor400,1.9531343148190065e-06
+cat__Model_A4 35 TDI Premium,1.920613843125822e-06
+cat__Model_A4 2.0 TDI (143bhp),1.9032425742853143e-06
+cat__Model_MU-X 4x2,1.9026557495447062e-06
+cat__Model_A3 35 TDI Technology + Sunroof,1.8867492962115966e-06
+cat__Model_Creta SX 1.6 CRDi,1.8789912988079054e-06
+cat__Model_Innova 2.5 G4 7 STR,1.877753787518365e-06
+cat__Model_A3 35 TDI Premium Plus,1.8550109815594413e-06
+cat__Model_S-Class 350 CDI L,1.803592215780185e-06
+cat__Model_Baleno Delta 1.2,1.7948572825687994e-06
+cat__Model_E-Class E250 CDI Avantgarde,1.783338826281052e-06
+cat__Brand_Isuzu,1.7819245574741856e-06
+cat__Model_Elite i20 Asta 1.2 IVT,1.7813918804578903e-06
+cat__Make_Renault,1.7693695130211693e-06
+cat__Model_A4 2.0 TDI (143 bhp),1.76910006976077e-06
+cat__Location_Allahabad,1.7588871172109302e-06
+cat__Make_Isuzu,1.6971954447275984e-06
+cat__Model_Innova 2.4 VX 8 STR [2016-2020],1.691543595768428e-06
+cat__Model_Elantra 1.6 SX AT,1.6892735302402327e-06
+cat__Model_Marazzo M6 Plus 8 STR,1.6783742939085728e-06
+cat__Model_Octavia 1.8 TSI Ambition Plus AT,1.6775818134916101e-06
+cat__Model_Verna 1.6 CRDI SX (O),1.6477066367974509e-06
+cat__Model_XC40 T4 R-Design,1.6381479581427538e-06
+cat__Model_Alturas G4 4WD AT [2018-2020],1.6095750750419634e-06
+cat__Model_XJ 3.0 Petrol,1.6091505377101474e-06
+cat__Model_Verna Fluidic 1.6 VTVT SX Opt AT,1.6035752249172495e-06
+cat__Make_Mitsubishi,1.60286612452063e-06
+cat__Model_XF Portfolio Diesel,1.5996757132403342e-06
+cat__Location_Unnao,1.5923720054077883e-06
+cat__Brand_Renault,1.5881908869517686e-06
+cat__Model_Venue S 1.0 AT Petrol [2019-2020],1.587255740599651e-06
+cat__Location_Dak. Kannada,1.5426760334759326e-06
+cat__Model_Discovery Sport HSE Petrol 7-Seater,1.5419378464780587e-06
+cat__Location_Yamunanagar,1.5252841462837623e-06
+cat__Model_X1 sDrive20d,1.5228074794723987e-06
+cat__Model_Venue SX 1.4 CRDi,1.5194879534894926e-06
+cat__Model_Nexon EV XZ Plus,1.5123850032690702e-06
+cat__Model_Endeavour Sport 2.0 4x4 AT,1.5120337590169574e-06
+cat__Model_Creta 1.6 SX (O),1.5080540853473688e-06
+cat__Location_Guwahati,1.5043136643559187e-06
+cat__Model_Discovery Sport HSE Luxury 7-Seater,1.4990642244711921e-06
+cat__Model_XUV500 W8 AWD,1.4817265637585835e-06
+cat__Model_A6 Technology 45 TFSI,1.4604234905886035e-06
+cat__Model_XUV500 W10 AT 1.99,1.444709705466576e-06
+cat__Model_Corolla Altis G AT Petrol,1.4387168845960905e-06
+cat__Model_Elantra 1.8 SX MT,1.4195218013049585e-06
+cat__Model_Innova 2.8 GX AT 7 STR [2016-2020],1.413417809365571e-06
+cat__Model_Polo GT TSI,1.3959803462174434e-06
+cat__Model_Endeavour Trend 2.2 4x2 AT,1.3838774766169678e-06
+cat__Model_Creta SX (O) 1.5 Diesel [2020-2022],1.374412055371888e-06
+cat__Model_Ertiga ZDI + SHVS,1.3695707108225442e-06
+cat__Model_Safari XZA Plus 6S Adventure New,1.3660088932088289e-06
+cat__Model_Xcent SX 1.1 CRDi (O),1.3607151891761188e-06
+cat__Model_Evoque SE,1.3512194045129282e-06
+cat__Model_Pajero Select Plus AT,1.3422236139103595e-06
+cat__Model_Q5 3.0 TDI quattro,1.3416457426277894e-06
+cat__Model_Cruze LTZ,1.3409854094925482e-06
+cat__Model_Compass Limited 1.4 Petrol AT [2017-2020],1.33580472853121e-06
+cat__Model_Ecosport Titanium 1.5 TDCi,1.3319507856948057e-06
+cat__Location_Varanasi,1.3263382933891786e-06
+cat__Model_7-Series 730Ld,1.3224929062402979e-06
+cat__Model_CLA 200 Petrol Sport,1.3208823550505873e-06
+cat__Model_City ZX CVT Petrol,1.3091446960041723e-06
+cat__Model_Ecosport Titanium 1.5L Ti-VCT,1.3080490943135352e-06
+cat__Model_C-Class 220 CDI Sport,1.3053041342530346e-06
+cat__Model_5-Series 525d Luxury Plus,1.2964624384315969e-06
+cat__Model_Amaze 1.5 VX i-DTEC,1.2825117264491043e-06
+cat__Model_Fortuner 3.0 4x2 MT,1.274825920226534e-06
+cat__Model_Ciaz Delta Hybrid 1.5 [2018-2020],1.2571345957458615e-06
+cat__Model_Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],1.2519253040145274e-06
+cat__Model_Endeavour Titanium 2.0 4x2 AT,1.243952539043089e-06
+cat__Brand_Datsun,1.2326391407440492e-06
+cat__Model_Tiguan AllSpace 2.0 TSI,1.2295330061103044e-06
+cat__Model_City 1.5 V AT,1.2247410041153195e-06
+cat__Model_E-Class 200 K Classic,1.2213623428301442e-06
+cat__Model_GLS 450 4MATIC,1.1798573939768196e-06
+cat__Model_Hector Plus Sharp 1.5 DCT Petrol,1.1780008034094331e-06
+cat__Model_Seltos HTK Plus AT 1.5 Diesel [2020-2021],1.1773535417052054e-06
+cat__Model_Cooper S,1.1629617830386284e-06
+cat__Model_Octavia RS,1.1602875241492214e-06
+cat__Model_Rapid Style 1.6 MPI AT,1.155829324550476e-06
+cat__Model_CR-V 2.0L 2WD AT,1.1533203351156833e-06
+cat__Model_City VX,1.1499421443825355e-06
+cat__Model_Swift DZire VXI AT,1.1308808268097198e-06
+cat__Model_GLA 220 d Activity Edition,1.1212164857868107e-06
+cat__Model_Elite i20 Sportz 1.2 IVT,1.1200278638498591e-06
+cat__Model_5-Series 520d Sedan,1.1067645898275032e-06
+cat__Model_CLA 200 D Urban Sport,1.1034082984862275e-06
+cat__Model_Creta 1.6 SX,1.0686596430700088e-06
+cat__Model_Taigun Highline 1.0 TSI AT,1.067152847994635e-06
+cat__Model_Vitara Brezza VDi (O) [2016-2018],1.0607287946241882e-06
+cat__Model_A4 Premium Plus 40 TFSI,1.0564581877285364e-06
+cat__Model_Swift VDi,1.0541352850747426e-06
+cat__Model_Baleno Zeta 1.2,1.0497771212710368e-06
+cat__Model_Kushaq Style 1.0L TSI MT,1.0244296511641223e-06
+cat__Seller Type_Commercial Registration,1.022230045398843e-06
+cat__Model_S60 Kinetic D4,1.0087335900731856e-06
+cat__Model_Scorpio S2,1.0038031148762368e-06
+cat__Location_Panvel,9.997168800590845e-07
+cat__Model_Vitara Brezza ZDi Plus,9.95162945145018e-07
+cat__Location_Jamshedpur,9.927779661585927e-07
+cat__Model_Baleno Alpha (O) 1.2,9.916375741012553e-07
+cat__Model_Creta SX Plus 1.6 AT CRDI,9.896783784968292e-07
+cat__Model_Scorpio S5 2WD 7 STR,9.853261048124947e-07
+cat__Model_Creta SX 1.6 AT CRDi,9.85231365714555e-07
+cat__Model_R-Class R350 4MATIC,9.82535188357967e-07
+cat__Model_Elite i20 Asta 1.2 (O) [2016],9.819702087190272e-07
+cat__Model_Harrier XZ,9.726717199731371e-07
+cat__Model_Compass Limited 2.0 Diesel [2017-2020],9.614234825193895e-07
+cat__Model_E-Class E200 CGI Blue Efficiency,9.581434914410817e-07
+cat__Model_City VX (O) MT,9.57457199032568e-07
+cat__Model_Seltos HTX Plus 1.5 Diesel [2020-2021],9.519225744813064e-07
+cat__Model_Q5 2.0 TDI quattro Premium,9.518089624802783e-07
+cat__Model_Innova 2.5 GX BS IV 7 STR,9.43704550683647e-07
+cat__Model_Seltos HTK 1.5 Diesel [2020-2021],9.403879053481791e-07
+cat__Model_Nexon XMA Petrol,9.246302446989853e-07
+cat__Location_Haldwani,9.14871434490962e-07
+cat__Model_A3 35 TDI Premium + Sunroof,9.036351728698802e-07
+cat__Model_Vitara Brezza LDi (O) [2016-2018],9.034986888290268e-07
+cat__Model_Harrier XZA Plus Dual Tone,9.013776946488258e-07
+cat__Location_Aurangabad,8.893240758071067e-07
+cat__Model_Polo 1.2 TDI,8.730356279407456e-07
+cat__Model_Manza Aqua Safire BS-IV,8.587996040572005e-07
+cat__Model_Camry Hybrid,8.561998916906089e-07
+cat__Location_Valsad,8.505990486241995e-07
+cat__Model_Q7 35 TDI Premium Plus + Sunroof,8.397930008190671e-07
+cat__Model_i20 Magna 1.2,8.381909179913395e-07
+cat__Model_GLA 200 CDI Style,8.175093425244766e-07
+cat__Model_C-Class 250 CDI Avantgarde,8.11757798371709e-07
+cat__Model_XC60 Inscription [2017-2020],8.026519058938171e-07
+cat__Model_Grand i10 Asta 1.2 Kappa VTVT [2013-2016],8.018337513713053e-07
+cat__Model_A4 2.0 TDI (177bhp) Premium Plus,8.012159850252611e-07
+cat__Model_Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022],7.969729485059856e-07
+cat__Model_Santa Fe 4 WD (AT),7.854791826662198e-07
+cat__Model_Creta SX (O) 1.5 Diesel Automatic,7.848309745756672e-07
+cat__Location_Gorakhpur,7.754595412230139e-07
+cat__Model_Q2 Premium 40 TFSI quattro,7.559901531876694e-07
+cat__Model_Innova 2.5 G 7 STR BS-IV,7.394501569168868e-07
+cat__Model_Thar LX 4-STR Hard Top Petrol AT,7.369307849191365e-07
+cat__Model_E-Class E200,7.342005449015659e-07
+cat__Model_Verna 1.6 VTVT SX,7.301112487157689e-07
+cat__Model_Vitara Brezza VDi,7.186224828895425e-07
+cat__Model_Innova 2.5 ZX 7 STR BS-IV,7.174765145275439e-07
+cat__Fuel Type_Cng,7.161782276668119e-07
+cat__Model_Alcazar Prestige 7 STR 1.5 Diesel,6.982898160572306e-07
+cat__Model_Creta SX 1.6 AT Petrol,6.944183995433085e-07
+cat__Model_Vento Comfortline Petrol AT,6.93786896800884e-07
+cat__Model_Civic 1.8V MT,6.893006970662961e-07
+cat__Model_Hector Sharp 1.5 DCT Petrol [2019-2020],6.825346309788566e-07
+cat__Model_Astor Sharp EX 1.5 MT,6.782382631488042e-07
+cat__Model_3-Series 320d Sport Line [2014-2016],6.730287399435802e-07
+cat__Model_Brio S MT,6.699522822855281e-07
+cat__Model_Harrier XZ [2019-2020],6.693039707245506e-07
+cat__Model_E-Class E250 CDI BlueEfficiency,6.473969099822957e-07
+cat__Model_Creta 1.4 S Plus,6.425240016967411e-07
+cat__Model_Corolla Altis GL Petrol,6.400512164077923e-07
+cat__Model_Octavia Elegance 2.0 TDI AT,6.332427873041204e-07
+cat__Model_Q3 35 TDI Technology with Navigation,6.271480661239294e-07
+cat__Model_Wagon R LXI CNG (O),6.255659363449356e-07
+cat__Model_Innova GX 2.4 AT 7 STR,6.210341405732088e-07
+cat__Location_Dharwad,6.090609187834688e-07
+cat__Model_Creta E Plus 1.4 CRDI,6.086802897256409e-07
+cat__Model_C-Class 250 CDI Elegance,6.072704136228621e-07
+cat__Model_XUV500 W11 AT,5.989032396648329e-07
+cat__Model_Ciaz Alpha Hybrid 1.5 AT [2018-2020],5.986787182246372e-07
+cat__Location_Rudrapur,5.883647106586627e-07
+cat__Model_A4 2.0 TDI Technology,5.852269486479737e-07
+cat__Model_Grand Vitara 2015 2.0 AT,5.848133600928298e-07
+cat__Model_Duster 110 PS RXZ 4X2 MT Diesel,5.845023076545919e-07
+cat__Model_Nexon XM,5.798434571506965e-07
+cat__Model_Corolla Altis 1.8 G,5.718657238314666e-07
+cat__Model_Ecosport Titanium 1.5 Ti-VCT,5.642006747216394e-07
+cat__Model_Swift VXi,5.560607929752112e-07
+cat__Model_Ertiga ZXi Plus,5.501464583095074e-07
+cat__Model_Venue SX 1.0 Turbo iMT,5.492056054038956e-07
+cat__Model_Sonet GTX Plus 1.5 AT [2020-2021],5.425772444281171e-07
+cat__Model_Compass Limited (O) 1.4 Petrol AT [2017-2020],5.371292283881867e-07
+cat__Model_XUV500 W9 [2018-2020],5.304939596902356e-07
+cat__Model_Creta 1.6 E Petrol,5.270025865805864e-07
+cat__Make_Datsun,5.177315511915554e-07
+cat__Location_Bhopal,5.162315532947835e-07
+cat__Model_Verna 1.6 VTVT SX (O),5.110091939204159e-07
+cat__Model_Marazzo M2 8 STR,5.09726404062142e-07
+cat__Model_Thar AX 6-STR Soft Top Petrol MT,5.077480816721165e-07
+cat__Model_Elantra 1.8 SX AT,5.035042117750013e-07
+cat__Model_Duster 85 PS RxL,4.961338837699538e-07
+cat__Model_Q5 45 TFSI Premium Plus,4.881362393787565e-07
+cat__Model_Safari XZ Plus,4.842324790967254e-07
+cat__Model_Venue SX Plus 1.0 Turbo DCT,4.830435039608057e-07
+cat__Model_Polo Highline1.5L (D),4.769641388449948e-07
+cat__Model_City VX CVT,4.760714681351445e-07
+cat__Model_Sonet GTX Plus 1.0 iMT [2020-2021],4.750365459414593e-07
+cat__Model_Swift VXi [2014-2017],4.744538727621665e-07
+cat__Model_Scorpio S3 2WD 7 STR,4.7418700921906177e-07
+cat__Model_XL6 Alpha MT Petrol,4.7171089563112414e-07
+cat__Model_Scorpio VLX 2WD BS-IV,4.69516118151011e-07
+cat__Model_X5 3.0d,4.612961277273591e-07
+cat__Model_DZire ZXi AGS,4.565814915892663e-07
+cat__Location_Purnea,4.551374442209454e-07
+cat__Model_Polo Comfortline 1.5L (D),4.460289989889917e-07
+cat__Model_Amaze 1.5 VX CVT Diesel,4.4429881289238304e-07
+cat__Model_Baleno Alpha Automatic,4.436191468274447e-07
+cat__Model_Vitara Brezza VXi,4.4214907068509776e-07
+cat__Model_3-Series 320d,4.416440744608291e-07
+cat__Model_Innova 2.5 E,4.366779283770294e-07
+cat__Model_Scorpio VLX 2WD Airbag BS-IV,4.331974846631747e-07
+cat__Model_Creta SX (O) 1.5 Petrol CVT [2020-2022],4.3317563575913376e-07
+cat__Model_Kwid 1.0 RXT [2016-2019],4.330705256636419e-07
+cat__Model_Swift ZXi,4.2251788495690006e-07
+cat__Model_Innova 2.4 VX 7 STR [2016-2020],4.1984803501694e-07
+cat__Model_Celerio LXi,4.1820004173318903e-07
+cat__Model_Swift DZire VXI,4.148541036234068e-07
+cat__Model_V40 Cross Country D3,4.118675489608388e-07
+cat__Model_E-Class E 200,4.0932069189043654e-07
+cat__Model_Scorpio S11 2WD 7 STR,4.0806589413661695e-07
+cat__Model_Mobilio RS Diesel,4.073921928927957e-07
+cat__Model_Hector Sharp 2.0 Diesel Turbo MT,4.0495534149494383e-07
+cat__Model_Swift DZire VDI,4.039325765184931e-07
+cat__Location_Bhubaneswar,4.036837613462583e-07
+cat__Model_Creta E Plus 1.6 Petrol,3.992396777854604e-07
+cat__Model_Ciaz S 1.4 MT,3.9808006607827633e-07
+cat__Model_City V Petrol [2017-2019],3.9759272248762324e-07
+cat__Model_Fortuner 3.0 4x4 AT,3.9302180572272185e-07
+cat__Model_BR-V V CVT Petrol,3.883006229778925e-07
+cat__Model_E-Class E220 CDI Blue Efficiency,3.8825763568003866e-07
+cat__Model_Ritz Vxi (ABS) BS-IV,3.844546868716589e-07
+cat__Model_Ecosport Titanium+ 1.5L TDCi,3.812572132304369e-07
+cat__Model_Octavia 1.8 TSI L&K,3.780815246854531e-07
+cat__Model_Vento Comfortline Petrol,3.769801509229281e-07
+cat__Model_X1 xDrive20d M Sport,3.737452202783068e-07
+cat__Model_Swift ZXi Plus [2018-2019],3.7275819516249266e-07
+cat__Model_Yaris V CVT,3.7113274141859855e-07
+cat__Model_Compass Limited 2.0 Diesel 4x4 [2017-2020],3.7071287375935525e-07
+cat__Model_A4 35 TDI Premium Sunroof,3.69328295340991e-07
+cat__Model_Ciaz Delta 1.4 MT,3.6544524193463344e-07
+cat__Model_Verna SX (O) AT Anniversary Edition 1.6 VTVT,3.650945265633157e-07
+cat__Model_Ertiga VXI CNG,3.6490413460374095e-07
+cat__Model_Vitara Brezza ZDi Plus AGS,3.624485812150551e-07
+cat__Model_Ecosport Ambiente 1.5L Ti-VCT,3.6237562542426123e-07
+cat__Model_Compass Longitude Plus 2.0 Diesel 4x4 AT,3.6004844721757844e-07
+cat__Model_CLA 200 CDI Sport (CBU),3.58812308249617e-07
+cat__Model_Tigor Revotron XM,3.5479517869047765e-07
+cat__Model_Scorpio S11 4WD 7 STR,3.537060036107217e-07
+cat__Model_Polo Highline1.0L (P),3.5323245521477315e-07
+cat__Model_Ecosport Trend 1.5 Ti-VCT,3.481238802724889e-07
+cat__Model_City VX Petrol [2017-2019],3.474274714393438e-07
+cat__Model_Verna Fluidic 1.6 VTVT SX,3.4656192431893204e-07
+cat__Model_C-Class C 250 CDI BlueEFFICIENCY,3.440325713201282e-07
+cat__Model_Q3 35 TDI Premium,3.4330953923087507e-07
+cat__Model_Ecosport Titanium 1.5L TDCi,3.380767757872715e-07
+cat__Model_Harrier XZA Plus,3.3600584124188863e-07
+cat__Model_Innova 2.7 VX 7 STR [2016-2020],3.348209406765287e-07
+cat__Model_Tiago Revotron XE [2016-2019],3.311157532784447e-07
+cat__Model_A-Class A 180 Sport Petrol,3.211180748216943e-07
+cat__Brand_Mitsubishi,3.207944279443746e-07
+cat__Model_Baleno Alpha 1.2,3.181961384129052e-07
+cat__Model_Figo Titanium1.5 TDCi,3.175604433063096e-07
+cat__Model_Pajero 2.5 MT,3.1392215646426864e-07
+cat__Model_City V Petrol,3.125688343721328e-07
+cat__Model_Verna 1.6 CRDI SX,3.1214898338814365e-07
+cat__Model_Polo Highline Plus 1.0L TSI,3.105410260308508e-07
+cat__Model_XL6 Zeta MT Petrol,3.062048654783034e-07
+cat__Model_Q3 2.0 TDI quattro Premium Plus,3.0399700367595045e-07
+cat__Model_City V,3.029807325330083e-07
+cat__Model_Wagon R ZXi 1.2 AMT,3.000274541011651e-07
+cat__Model_Innova 2.5 G 8 STR BS-III,2.970797362834728e-07
+cat__Model_Celerio ZXi,2.958578899684432e-07
+cat__Model_Creta SX 1.5 Diesel [2020-2022],2.952851204857215e-07
+cat__Model_Polo Comfortline 1.2L (P),2.934794063166768e-07
+cat__Model_A4 2.0 TDI (177bhp) Premium,2.933324297048072e-07
+cat__Model_City V CVT Petrol [2017-2019],2.918630413466168e-07
+cat__Model_S-Cross Alpha 1.3,2.8624952403292717e-07
+cat__Model_Innova 2.7 ZX AT 7 STR,2.856124384727205e-07
+cat__Owner_4 Or More,2.830866862667915e-07
+cat__Model_City V Diesel,2.8232780552991963e-07
+cat__Model_Zest XE 75 PS Diesel,2.813213829632738e-07
+cat__Model_City S Petrol,2.7925756203023455e-07
+cat__Model_Swift DZire LXI (O),2.789317626024398e-07
+cat__Model_Aspire Titanium1.5 TDCi [2018-2020],2.7855525344441025e-07
+cat__Model_Celerio ZXi AMT [2019-2020],2.765897984793891e-07
+cat__Model_DZire VDi,2.736329998015037e-07
+cat__Location_Meerut,2.733625520574821e-07
+cat__Model_Vento Highline Plus 1.6 (P),2.7263361596704996e-07
+cat__Model_Swift LXi,2.6947635338687823e-07
+cat__Model_Alcazar Signature (O) 6 STR 2.0 Petrol AT,2.6504736176392093e-07
+cat__Model_Bolero SLE BS IV,2.6472150838876903e-07
+cat__Model_Wagon R LXI CNG,2.644340091022627e-07
+cat__Model_Compass Longitude (O) 1.4 Petrol AT [2019-2020],2.623428955115992e-07
+cat__Model_Creta 1.4 S,2.565087766180814e-07
+cat__Model_Q5 2.0 TDI quattro Premium Plus,2.558616783297134e-07
+cat__Model_Celerio VXi AMT,2.54576455900136e-07
+cat__Model_Baleno Zeta 1.2 AT,2.5445140614287283e-07
+cat__Model_Swift ZXi AMT [2018-2019],2.5384162431430446e-07
+cat__Model_Swift ZDi,2.510987423764706e-07
+cat__Model_S-Cross Alpha 1.6,2.471625064827338e-07
+cat__Model_DZire VXi,2.469471532478825e-07
+cat__Model_Vitara Brezza VDi AGS,2.4636946716315964e-07
+cat__Model_Seltos HTX 1.5 [2020-2021],2.4563187272924356e-07
+cat__Location_Amritsar,2.446212677326071e-07
+cat__Model_Alto VXi (O) [2014-2019],2.4363166787112127e-07
+cat__Model_Redigo T(O) 1.0 [2017-2019],2.3714459147157116e-07
+cat__Model_Thar CRDe 4x4 Non AC,2.361792753002141e-07
+cat__Model_XUV500 W4 1.99,2.358422830743529e-07
+cat__Model_Corolla Altis 1.8 VL AT,2.3491264690594694e-07
+cat__Model_Ciaz Delta Hybrid 1.5 AT [2018-2020],2.3380380452030288e-07
+cat__Model_Harrier XT Plus Dark Edition,2.3257252049470753e-07
+cat__Location_Muzaffurpur,2.3218739504560747e-07
+cat__Model_Innova 2.7 GX AT 7 STR [2016-2020],2.314867019192745e-07
+cat__Model_Santro Era,2.2763197616364364e-07
+cat__Model_Duster 110 PS RxL,2.2659213348231483e-07
+cat__Model_Ritz Vdi BS-IV,2.2643065156519547e-07
+cat__Model_Verna Fluidic 1.6 VTVT SX AT,2.2497252178462538e-07
+cat__Model_Creta 1.6 SX Plus Petrol,2.2474533570784695e-07
+cat__Model_Elite i20 Sportz 1.5 MT Diesel,2.2467904819352425e-07
+cat__Model_Ciaz Alpha Hybrid 1.5 [2018-2020],2.220783849495565e-07
+cat__Model_Thar LX 4-STR Hard Top Diesel MT,2.2036672997585393e-07
+cat__Model_Ertiga VDi,2.1728024349913368e-07
+cat__Model_E-Class E 200 Avantgarde,2.1394127615992757e-07
+cat__Model_Venue SX (O) 1.0 Turbo iMT,2.1309503423255253e-07
+cat__Model_Etios Liva GD,2.1113911764648254e-07
+cat__Model_Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],2.1016268691835267e-07
+cat__Model_i20 Active 1.4 S,2.0849138919181907e-07
+cat__Model_Ritz Ldi BS-IV,2.0636483027742547e-07
+cat__Model_Tucson GLS 2WD AT Petrol,2.043812865708343e-07
+cat__Model_Corolla Altis 1.8 G AT,2.0084226697615066e-07
+cat__Model_Safari 4x2 EX TCIC,1.984536738921422e-07
+cat__Model_Kwid 1.0 RXT Edition,1.9779668186885526e-07
+cat__Model_Ameo Highline1.2L (P) [2016-2018],1.964653585805426e-07
+cat__Model_City 1.5 S MT,1.934240735074471e-07
+cat__Model_Verna Fluidic 1.6 CRDi SX,1.931855625559565e-07
+cat__Model_Elite i20 Sportz 1.2 MT,1.9206409051147693e-07
+cat__Model_Wagon R LXi 1.0 CNG,1.911872237075662e-07
+cat__Model_Xcent S 1.1 CRDi (O),1.8976731577835105e-07
+cat__Model_Kwid 1.0 RXT AMT Opt,1.8820423060675442e-07
+cat__Model_Nexon XZA Plus Petrol,1.8726992997175647e-07
+cat__Model_B-class B180 Sports,1.8657993464082205e-07
+cat__Model_A-Class A 200d,1.8607410441064182e-07
+cat__Model_X1 sDrive20i xLine,1.8533935970445104e-07
+cat__Model_Kushaq Style 1.0L TSI AT,1.8515917797303982e-07
+cat__Model_XUV700 AX 7 Diesel AT AWD Luxury Pack 7 STR,1.8499089038384094e-07
+cat__Model_Yaris J CVT [2018-2020],1.8418086455640097e-07
+cat__Model_Thar AX 6-STR Soft Top Diesel MT,1.828514767070229e-07
+cat__Model_Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],1.8273586255406016e-07
+cat__Model_Innova 2.4 G 8 STR [2016-2017],1.81157063368427e-07
+cat__Model_Elite i20 Sportz 1.2,1.7819523366494706e-07
+cat__Model_Corolla Altis GL,1.7764344987545669e-07
+cat__Model_Ritz VXI BS-IV,1.7610232376137897e-07
+cat__Model_Kiger RXZ AMT,1.7519063597120723e-07
+cat__Model_Tucson GL 2WD AT Petrol,1.7505132647277969e-07
+cat__Model_Ciaz VDi SHVS,1.7335114863002597e-07
+cat__Model_Santro Sportz AMT [2018-2020],1.717056940258799e-07
+cat__Model_S-Cross Delta 1.6,1.697419285063921e-07
+cat__Model_Etios VXD,1.6921596477625863e-07
+cat__Model_Jazz V Petrol,1.6910914166729144e-07
+cat__Model_Bolero Power Plus ZLX,1.685601045439036e-07
+cat__Model_Elite i20 Asta (O) 1.0 Turbo DCT,1.6750235129987747e-07
+cat__Model_Alto 800 Vxi,1.668614490329002e-07
+cat__Model_Duster RXS 1.5 Petrol MT,1.663057731778798e-07
+cat__Model_Seltos GTX Plus AT 1.4 [2019-2020],1.6541225170242418e-07
+cat__Model_Eeco 5 STR WITH A/C+HTR [2019-2020],1.6530148141108465e-07
+cat__Model_Sail Sedan 1.2 LS,1.649263276164748e-07
+cat__Model_Nexon XM Diesel,1.6336293162195704e-07
+cat__Model_Grand i10 Magna AT 1.2 Kappa VTVT,1.6318574594359702e-07
+cat__Model_Rapid 1.5 TDI CR Ambition Plus AT,1.6212129182601319e-07
+cat__Location_Kheda,1.6194148440149369e-07
+cat__Model_Swift DZire VDi,1.6180683056492755e-07
+cat__Model_Swift DZire ZXI,1.603827259019048e-07
+cat__Model_Safari 2.2 EX 4x2,1.6018891085550632e-07
+cat__Model_Elite i20 Magna Executive 1.2,1.5931451006881112e-07
+cat__Model_Glanza G,1.5867667559623472e-07
+cat__Model_Grande GX,1.5803520245117002e-07
+cat__Model_Celerio ZXi AMT [2017-2019],1.5572278523984636e-07
+cat__Model_Duster RXL Petrol,1.5400685282422834e-07
+cat__Model_Xylo D2 BS-IV,1.5385078458512504e-07
+cat__Model_Thar CRDe 4x4 AC,1.5267768645586608e-07
+cat__Model_Vento Highline 1.0L TSI,1.4998641122025396e-07
+cat__Model_Duster 110 PS RxZ Diesel,1.492495373246744e-07
+cat__Model_Swift DZire LDI,1.4540060572617158e-07
+cat__Model_A6 35 TDI Premium,1.4526060389317492e-07
+cat__Model_City SV CVT,1.4407481928308482e-07
+cat__Fuel Type_Lpg,1.4374360466544855e-07
+cat__Model_S-Cross Zeta 1.3,1.4319410092128875e-07
+cat__Model_Elite i20 Asta 1.4 CRDI [2016-2017],1.4318311403923566e-07
+cat__Model_Rapid Style AT,1.400764244677428e-07
+cat__Model_Rapid Ambition 1.6 TDI CR MT,1.3939646235160814e-07
+cat__Model_i10 Magna 1.1 LPG,1.3773198472039395e-07
+cat__Model_DZire VXi AMT,1.371098860234238e-07
+cat__Model_Creta SX 1.6 (O) Petrol,1.3660987838398972e-07
+cat__Model_Countryman Cooper S JCW Inspired,1.3606666630555888e-07
+cat__Model_Nexon XZ Plus Dark Edition,1.359764042028819e-07
+cat__Model_City 1.5 V MT,1.3509188187639582e-07
+cat__Model_Grand i10 Magna 1.2 Kappa VTVT [2013-2016],1.3324847711121173e-07
+cat__Model_Celerio X Zxi AMT [2017-2019],1.3221651647108253e-07
+cat__Model_S-Cross Zeta 1.6,1.3082571225184706e-07
+cat__Model_Wagon R VXI,1.2960556808911096e-07
+cat__Model_Amaze 1.5 SX i-DTEC,1.292559323811253e-07
+cat__Model_Fortuner 4x2 AT,1.284491327180397e-07
+cat__Model_Kwid 1.0 RXL [2017-2019],1.2497385689537216e-07
+cat__Model_Nexon XT Diesel [2017-2019],1.249413037284184e-07
+cat__Model_Brio E MT,1.2414022173961194e-07
+cat__Model_Ertiga Vxi CNG,1.2117316178198468e-07
+cat__Model_Figo Duratorq Diesel ZXI 1.4,1.2075793108188534e-07
+cat__Model_Jazz V AT Petrol,1.2022826669675522e-07
+cat__Model_Duster 110 PS RXL 4X2 AMT [2016-2017],1.1998504285136194e-07
+cat__Model_Rapid Monte Carlo 1.6 MPI MT,1.198685093167817e-07
+cat__Model_Zen LXi BS-II,1.192289703615376e-07
+cat__Model_Venue SX (O) 1.5 CRDi,1.1918292119079877e-07
+cat__Model_Amaze 1.2 V CVT Petrol [2018-2020],1.1894815228020257e-07
+cat__Model_Baleno Delta 1.2 AT,1.1808066791663756e-07
+cat__Model_Wagon R VXi,1.176568967500699e-07
+cat__Model_Nexon XZ Plus Diesel,1.1644013524828235e-07
+cat__Model_Eon Magna +,1.1613927434664864e-07
+cat__Model_Ciaz Alpha 1.4 MT,1.1517887894318861e-07
+cat__Model_Creta SX Plus 1.6 CRDI Dual Tone,1.1509171172471451e-07
+cat__Model_XUV500 W8 1.99 [2016-2017],1.1352139298358336e-07
+cat__Model_Grand i10 Magna U2 1.2 CRDi,1.1349230845708562e-07
+cat__Model_XUV500 W10 AWD,1.1242735988652543e-07
+cat__Model_Amaze 1.2 E MT Petrol [2018-2020],1.1146867094593459e-07
+cat__Model_Wagon R VXi 1.2,1.0918025747516163e-07
+cat__Model_Swift DZire ZDI AMT,1.0908548890774796e-07
+cat__Model_SX4 VXi,1.0902727163815549e-07
+cat__Location_Warangal,1.0793967105873875e-07
+cat__Model_Alto LXi CNG,1.060814486023471e-07
+cat__Model_Tiago Revotron XZA,1.05432826149292e-07
+cat__Location_Roorkee,1.0475672056646663e-07
+cat__Model_Terrano XL D Plus,1.038668489131185e-07
+cat__Model_Creta 1.6 SX Plus Special Edition,1.0383214923525094e-07
+cat__Model_Ertiga ZXi AT,1.0334029307959894e-07
+cat__Model_Elite i20 Sportz 1.2 (O),1.0319378397533349e-07
+cat__Model_Venue SX 1.5 CRDi,1.027682620308916e-07
+cat__Model_DZire LDi,1.0266123333243954e-07
+cat__Model_Amaze 1.5 E i-DTEC,1.0239990769666501e-07
+cat__Model_TUV300 T8,1.0134902016831456e-07
+cat__Model_Seltos GTX Plus 1.4 [2020-2021],1.0124028864629318e-07
+cat__Model_Swift DZire LXI,1.0119286018018962e-07
+cat__Model_Bolero SLX 2WD,1.0113193710903995e-07
+cat__Model_Baleno Sigma 1.2,1.0091697182183466e-07
+cat__Model_Elite i20 Asta 1.2 AT,1.0083883856154519e-07
+cat__Model_Etios 1.2 G,1.0016069727107092e-07
+cat__Model_Aspire Titanium1.5 TDCi,9.960852448291754e-08
+cat__Model_Tigor XZA Plus,9.910463249093388e-08
+cat__Model_WR-V VX MT Petrol,9.813280462983962e-08
+cat__Model_Swift Lxi (O) [2014-2017],9.798147507699292e-08
+cat__Model_Verna EX 1.6 CRDi [2017-2018],9.798051733360973e-08
+cat__Model_Ciaz ZXI+,9.767415152987702e-08
+cat__Model_Grand i10 Asta 1.1 CRDi [2013-2016],9.756102270719977e-08
+cat__Model_TUV300 T6 Plus AMT,9.746518209928951e-08
+cat__Model_Verna 1.6 VTVT S,9.737639142959067e-08
+cat__Model_Seltos HTK Plus 1.5 Diesel,9.6654153831396e-08
+cat__Model_Go D,9.64513158523651e-08
+cat__Model_Kwid RXT [2015-2019],9.494621966043863e-08
+cat__Model_Elite i20 Asta 1.4 CRDI,9.384685535504984e-08
+cat__Model_Etios Liva VD Dual Tone,9.360749142190676e-08
+cat__Model_Duster 85 PS RXS 4X2 MT Diesel,9.358312975487554e-08
+cat__Model_Amaze 1.2 E i-VTEC,9.329257001994869e-08
+cat__Model_Nano Base,9.318967340268373e-08
+cat__Model_2 Series Gran Coupe 220d M Sport [2020-2021],9.3077844078603e-08
+cat__Model_Swift DZire VXi,9.176680672408616e-08
+cat__Model_Eon Era +,9.157588590610262e-08
+cat__Model_3-Series 320i Luxury Line,9.130612762686199e-08
+cat__Model_i10 Magna 1.2 Kappa2,9.129652870508087e-08
+cat__Model_TUV300 T10,9.050688847760638e-08
+cat__Model_Elite i20 Asta 1.2 [2016-2017],9.01723159518008e-08
+cat__Model_Xylo D4,8.816371866411466e-08
+cat__Model_i10 Sportz 1.2,8.801345847806846e-08
+cat__Model_Alto VXi,8.791659808695421e-08
+cat__Model_Elite i20 Asta 1.0 Turbo IMT Dual Tone,8.72115901570528e-08
+cat__Model_Alto 800 Std,8.70866120587995e-08
+cat__Model_Verna SX (O) 1.6 CRDi,8.618168258715412e-08
+cat__Model_Grand i10 Sports Edition 1.2L Kappa VTVT,8.600209933174839e-08
+cat__Model_Vitara Brezza ZDi+ Dual Tone [2017-2018],8.515277290666071e-08
+cat__Model_City SV Diesel,8.473500803607229e-08
+cat__Model_Santro GL (CNG),8.456464347485231e-08
+cat__Model_Safari 2.2 VX 4x2,8.252336497544231e-08
+cat__Model_Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],8.156116878871866e-08
+cat__Location_Bulandshahar,8.084124507970125e-08
+cat__Model_XUV500 W8,8.06855948359696e-08
+cat__Model_XUV500 W6 2013,7.961792030757028e-08
+cat__Model_Duster 85 PS RxL Diesel,7.941170126418416e-08
+cat__Model_City 1.5 E MT,7.825874101284905e-08
+cat__Model_Wagon R LXi,7.692962961286995e-08
+cat__Model_Creta EX 1.4 CRDi,7.677255486126295e-08
+cat__Model_Urban Cruiser Premium Grade AT,7.600225416201806e-08
+cat__Model_XUV500 W6,7.57160365686001e-08
+cat__Model_Swift ZDi Plus,7.431476374699714e-08
+cat__Model_Bolero SLE BS III,7.408937750904758e-08
+cat__Model_Eon Magna [2011-2012],7.37158481852617e-08
+cat__Model_Alto 800 Lxi,7.225751782376411e-08
+cat__Model_Elite i20 Magna 1.2 [2016-2017],7.201001347970744e-08
+cat__Model_Etios GD,7.17722483368564e-08
+cat__Model_Zest XM 75 PS Diesel,7.16756713428177e-08
+cat__Model_Ciaz Zeta 1.4 AT,7.150417967374211e-08
+cat__Model_Vento Highline Plus 1.2 (P) AT 16 Alloy,7.116224262440753e-08
+cat__Model_Fabia Elegance 1.6 MPI,7.065446043595291e-08
+cat__Model_Glanza G CVT,7.046061516130745e-08
+cat__Model_Ertiga VDI SHVS,7.017403669851357e-08
+cat__Model_Wagon R LXI ABS,7.001415903771614e-08
+cat__Model_Elite i20 Asta 1.2,6.959336836751168e-08
+cat__Model_Tigor Revotorq XT,6.914122699213993e-08
+cat__Model_Baleno Alpha 1.3,6.870951055087628e-08
+cat__Model_Ecosport Trend 1.5 TDCi,6.805396115200419e-08
+cat__Model_Polo 1.5 TDI,6.754279119093071e-08
+cat__Model_Verna Fluidic 1.6 CRDi SX Opt,6.725500234093252e-08
+cat__Model_Elite i20 Magna 1.4 CRDI [2016-2017],6.646833977035441e-08
+cat__Location_Nagpur,6.617388619090486e-08
+cat__Model_Tiago Revotron XTA [2017-2019],6.542032416447675e-08
+cat__Model_Terrano XL D THP 110 PS,6.52410861365151e-08
+cat__Model_Xcent SX 1.1 CRDi,6.290578749222349e-08
+cat__Model_Elite i20 Sportz 1.4 CRDI,6.268163669737428e-08
+cat__Model_Tiago Revotron XZA [2017-2019],6.216525777072398e-08
+cat__Model_WR-V S MT Petrol,6.18913519734922e-08
+cat__Model_Alto VXi (O),6.108065953168174e-08
+cat__Model_Aura S 1.2 CNG,6.0620705347965e-08
+cat__Location_Ernakulam,6.031365426753554e-08
+cat__Model_Celerio ZXi [2017-2019],5.8983232437797086e-08
+cat__Model_Swift VDi AMT [2018-2019],5.861361603489654e-08
+cat__Model_Kiger RXT Turbo CVT,5.8084890971976506e-08
+cat__Model_Vento Comfortline Diesel,5.737582487057845e-08
+cat__Model_i10 Sportz 1.2 Kappa2,5.702725958595355e-08
+cat__Model_i20 Active 1.2 SX,5.67407910891465e-08
+cat__Model_Ciaz ZDi SHVS,5.609451334400493e-08
+cat__Model_Celerio VXi,5.4996918054673243e-08
+cat__Location_Deoghar,5.481124615943025e-08
+cat__Model_Fiesta Style Diesel [2011-2014],5.411693926434618e-08
+cat__Make_Fiat,5.385471499769583e-08
+cat__Model_Elite i20 Sportz 1.2 [2016-2017],5.382553922650108e-08
+cat__Model_Wagon R VXI+,5.3433560664828344e-08
+cat__Model_Xcent S 1.1 CRDi Special Edition,5.324046518491137e-08
+cat__Model_Baleno Delta 1.3,5.2731027916952734e-08
+cat__Model_Santro Sportz CNG [2018-2020],5.265061698402078e-08
+cat__Model_i20 Sportz 1.2 BS-IV,5.2248523707273666e-08
+cat__Model_Terrano XV D THP 110 PS,5.214654738384509e-08
+cat__Model_Altroz XT Petrol,5.201193010188475e-08
+cat__Model_Baleno Alpha 1.2 AT,5.1897868501481545e-08
+cat__Model_Ecosport Ambiente 1.5L TDCi,5.1741379664423223e-08
+cat__Model_i20 Sportz 1.2 (O),5.15093039446851e-08
+cat__Brand_Fiat,5.0761883095346304e-08
+cat__Model_SX4 ZDI,4.981602549350378e-08
+cat__Model_Wagon R LXi CNG,4.884859453710619e-08
+cat__Model_Tiago Revotron XT [2016-2019],4.8545810554842734e-08
+cat__Model_Scorpio S4 1.99 [2016-2017],4.832466706209216e-08
+cat__Model_Figo Duratorq Diesel Titanium 1.4,4.823197129100562e-08
+cat__Model_Zen LX,4.798153707614594e-08
+cat__Model_Ertiga ZXI+,4.797780574333189e-08
+cat__Model_Go T (O),4.754594656079711e-08
+cat__Model_Wagon R LXi 1.0 CNG [2019-2020],4.738153071361222e-08
+cat__Model_Amaze 1.2 S MT Petrol [2018-2020],4.707932254222828e-08
+cat__Model_A7 Sportback 3.0 TDI quattro,4.6856522633241064e-08
+cat__Model_B-class B180,4.6692782564670375e-08
+cat__Model_Pulse RxL ABS Diesel [2015-2017],4.6535690998807495e-08
+cat__Model_Grand i10 Magna 1.2 Kappa VTVT [2017-2020],4.607145552173855e-08
+cat__Model_Alto VXi [2014-2019],4.5220801178465366e-08
+cat__Model_Polo Highline1.2L (D),4.4477326540991705e-08
+cat__Model_Spark LS 1.0 BS-III,4.4249879368125555e-08
+cat__Model_Santro Sportz,4.3841019861663196e-08
+cat__Model_Ciaz VXi (O),4.3056636059219206e-08
+cat__Location_Kharar,4.2863735723243096e-08
+cat__Model_Ertiga LXI,4.2685748859061836e-08
+cat__Model_Ciaz ZXi,4.2674916324723146e-08
+cat__Model_i10 Magna,4.251060041017583e-08
+cat__Model_Xcent S 1.2,4.241192173904423e-08
+cat__Model_Polo Comfortline 1.2L (D),4.208459304169252e-08
+cat__Model_Alto LXi,4.195696749913224e-08
+cat__Model_Amaze 1.2 VX i-VTEC,4.17113553098929e-08
+cat__Model_Vento Trendline Diesel,4.158354462723259e-08
+cat__Model_Celerio LDi [2015-2017],4.1562558451543594e-08
+cat__Model_Duster 85 PS Sandstorm Edition Diesel,4.119799966405664e-08
+cat__Model_5-Series 530d M Sport [2017-2019],4.0292434065009375e-08
+cat__Model_City CVT,3.997487021451888e-08
+cat__Model_Bolero Power Plus ZLX [2016-2019],3.9919025416505065e-08
+cat__Model_Amaze 1.2 S i-VTEC,3.975592240603405e-08
+cat__Model_Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],3.9732845806314945e-08
+cat__Model_City 1.5 EXi,3.953951628268247e-08
+cat__Model_i10 Sportz 1.2 AT Kappa2,3.930391110660052e-08
+cat__Model_Eeco 7 STR [2019-2020],3.905432848855682e-08
+cat__Model_Terrano XL (D),3.812394737836438e-08
+cat__Model_Celerio X Vxi AMT [2017-2019],3.7580907113227676e-08
+cat__Model_Innova 2.0 G1 BS-IV,3.7570929629656506e-08
+cat__Model_Santro Magna [2018-2020],3.7183652660680986e-08
+cat__Model_S-Presso VXi,3.716847985061808e-08
+cat__Model_Go Plus T,3.7152086878496636e-08
+cat__Model_Alcazar Platinum 7 STR 1.5 Diesel,3.660478590237677e-08
+cat__Model_Accent Executive,3.652907000409392e-08
+cat__Model_XUV500 W8 [2015-2017],3.643421263117971e-08
+cat__Model_Compass Sport 1.4 Petrol,3.636888168437905e-08
+cat__Model_City VX (O) MT BL,3.631656783899303e-08
+cat__Model_Innova 2.0 V,3.6249600901075226e-08
+cat__Model_Amaze 1.2 S AT i-VTEC,3.614590074957999e-08
+cat__Model_Redigo T(O) 1.0,3.570245117197562e-08
+cat__Model_i20 Asta 1.2,3.5485863501281315e-08
+cat__Model_Scorpio S9 2WD 7 STR,3.5359141703450335e-08
+cat__Model_DZire ZXi Plus AMT,3.525602484426747e-08
+cat__Model_Amaze 1.2 S i-VTEC Opt,3.5178748184781176e-08
+cat__Model_Swift LXi Special Edition,3.4939638542542745e-08
+cat__Model_Santro Sportz [2018-2020],3.446020478347297e-08
+cat__Model_Ecosport Titanium + 1.5L TDCi,3.438110947372492e-08
+cat__Model_C-Class 200 CGI,3.4373631375358255e-08
+cat__Model_Ikon DuraTorq 1.4 TDCi,3.4369853544712375e-08
+cat__Model_Ertiga VDi 1.3 Diesel,3.4214088364449934e-08
+cat__Model_Verna 1.6 VTVT SX AT,3.418747727051045e-08
+cat__Model_Creta SX Plus 1.6  Petrol,3.386853610185437e-08
+cat__Model_Alto 800 Vxi (Airbag),3.378192495837844e-08
+cat__Model_Verna Fluidic 1.6 CRDi,3.338601065780254e-08
+cat__Model_Elite i20 Magna 1.2,3.293160467373284e-08
+cat__Model_City E Diesel,3.2436375992854676e-08
+cat__Model_Tiago Revotron XM (O) [2016-2019],3.192303112954239e-08
+cat__Location_Ranga Reddy,3.1661951820086245e-08
+cat__Model_Amaze VX CVT 1.2 Petrol,3.1010641356043285e-08
+cat__Model_Glanza V,2.9199638532892985e-08
+cat__Model_Punch Creative iRA Pack MT,2.9191466397522187e-08
+cat__Model_Tiago NRG Petrol,2.915152942976153e-08
+cat__Fuel Type_Petrol + Lpg,2.893424249396264e-08
+cat__Model_Xcent SX CRDi,2.893226196521e-08
+cat__Model_Rapid Elegance 1.6 MPI AT,2.8507696440462405e-08
+cat__Model_Amaze 1.5 S i-DTEC,2.8120101724889988e-08
+cat__Model_i20 Sportz 1.4 CRDI,2.7971591734767163e-08
+cat__Model_Kwid CLIMBER 1.0 [2017-2019],2.7869493282695196e-08
+cat__Model_Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,2.7793500647593336e-08
+cat__Model_Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],2.769279749117708e-08
+cat__Model_Alto 800 VXi,2.7430525529273828e-08
+cat__Location_Panchkula,2.7341179198061212e-08
+cat__Model_Scorpio LX BS-III,2.712462347998684e-08
+cat__Model_Celerio ZXi [2019-2020],2.6330052126405084e-08
+cat__Model_Jazz S AT [2015-2016],2.6189956541237616e-08
+cat__Model_Duster 110 PS RxL Diesel,2.61370307739942e-08
+cat__Model_Amaze 1.2 VX AT i-VTEC,2.5999231977065817e-08
+cat__Model_Estilo VXi BS-IV,2.5727966271089073e-08
+cat__Model_Rapid 1.6 MPI Active,2.521857782381894e-08
+cat__Model_Ignis Delta 1.2 AMT,2.504013933953748e-08
+cat__Model_DZire ZDi Plus AMT,2.4988599096300943e-08
+cat__Model_Redigo S 1.0 AMT [2018-2019],2.4962242546414634e-08
+cat__Model_Brio EX MT,2.4691703612171247e-08
+cat__Model_Elite i20 Asta 1.4 (O) CRDi,2.454934044422391e-08
+cat__Model_Alto VXi AMT [2014-2018],2.4240749036953064e-08
+cat__Model_Jazz VX Petrol,2.3777097373340194e-08
+cat__Model_Ertiga VXI,2.3434196889932188e-08
+cat__Location_Samastipur,2.2663404948809027e-08
+cat__Model_City 1.5 S AT,2.2564962706534793e-08
+cat__Model_Grand i10 NIOS Magna AMT 1.2 Kappa VTVT,2.2564309043198206e-08
+cat__Model_Celerio VXi (O) [2019-2020],2.2528497114873117e-08
+cat__Model_Eeco 7 STR STD (O),2.242490943175897e-08
+cat__Model_Fiesta Titanium Diesel,2.239526849860037e-08
+cat__Model_Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT,2.2215987820924627e-08
+cat__Model_Ecosport Titanium + 1.5L TDCi [2019-2020],2.215736740666473e-08
+cat__Model_Eon Sportz,2.1568046274436488e-08
+cat__Model_Ignis Zeta 1.2 AMT,2.1358610706234685e-08
+cat__Model_Swift DZire ZDi BS-IV,2.1194720664256153e-08
+cat__Model_Alto 800 Lxi CNG,2.112335670131488e-08
+cat__Model_Wagon R VXI+ AMT,2.102712308064028e-08
+cat__Model_i20 Active 1.2 S,2.054994269608582e-08
+cat__Model_Verna Fluidic 1.6 VTVT SX Opt,2.050191229481433e-08
+cat__Model_S-Cross Sigma 1.3,2.0111473176072027e-08
+cat__Model_Brio V MT,1.976544535787131e-08
+cat__Model_TUV300 T6 Plus,1.9603392169398645e-08
+cat__Model_Alto LXi BS-III,1.8810979139557395e-08
+cat__Model_Ciaz VXi,1.834367271651516e-08
+cat__Model_Celerio VXi [2019-2020],1.8230341244967756e-08
+cat__Model_i10 Era 1.1 iRDE2 [2010-2017],1.8058673452637637e-08
+cat__Model_Kwid RXL [2015-2019],1.7987404411600967e-08
+cat__Model_Linea Emotion 1.4,1.7642695482862057e-08
+cat__Model_Ciaz Alpha 1.4 AT,1.753480322195633e-08
+cat__Model_TUV300 T8 AMT mHAWK100,1.7409354373559887e-08
+cat__Model_Swift VDi BS-IV,1.67213969283911e-08
+cat__Model_Amaze 1.2 SX i-VTEC,1.6252620442685287e-08
+cat__Model_i10 Asta 1.2 AT Kappa2 with Sunroof,1.614256087903436e-08
+cat__Model_Eeco 5 STR WITH A/C+HTR CNG [2017-2019],1.5901321198033657e-08
+cat__Model_Eon 1.0 Kappa Magna AirBag,1.5625578111952773e-08
+cat__Model_Xcent S 1.2 (O),1.560140514210126e-08
+cat__Model_WR-V S MT Diesel,1.5321154630983305e-08
+cat__Model_Estilo LXi BS-IV,1.5292283499149925e-08
+cat__Model_Elite i20 Sportz 1.4,1.5162087833254006e-08
+cat__Location_Siliguri,1.5152822622944683e-08
+cat__Model_Civic 1.8S MT,1.4745073553998325e-08
+cat__Model_Jetta 1.9L TDI,1.4539085721497818e-08
+cat__Model_Alto 800 LXi (O),1.4374589524277774e-08
+cat__Model_Eon D-Lite +,1.385352100179532e-08
+cat__Model_Eon 1.0 Kappa Magna + [2014-2016],1.3746881893142788e-08
+cat__Model_i20 Magna (O) 1.2,1.338787730131456e-08
+cat__Model_Alto LXi CNG [2014-2018],1.3263366907904878e-08
+cat__Model_Sunny XL,1.3231250727136706e-08
+cat__Model_Wagon R LXi (O) 1.0 CNG [2019-2020],1.3089227380037346e-08
+cat__Model_Celerio ZXi (O) AMT [2019-2020],1.2626574335507664e-08
+cat__Model_i10 Magna (O),1.2111745449082028e-08
+cat__Location_Kollam,1.199010628258249e-08
+cat__Location_Pimpri-Chinchwad,1.1110039174149647e-08
+cat__Model_Wagon R VXi (O),1.0914241001481952e-08
+cat__Model_Quanto C8,1.0362133245577938e-08
+cat__Model_Ciaz VDi+ SHVS,1.0055487760595192e-08
+cat__Model_Santro GL LPG,9.756423155527019e-09
+cat__Model_Sunny XV Diesel,8.682362040842593e-09
+cat__Model_DZire VDi AMT,8.607057154095667e-09
+cat__Model_Magnite XL,8.430202612290423e-09
+cat__Model_S-Presso VXi (O),8.235564290012635e-09
+cat__Model_Alto VXi AMT,8.057291416260603e-09
+cat__Model_Santro XO eRLX - Euro III,7.825637894640431e-09
+cat__Model_S-Presso VXi Plus,7.8154414007222e-09
+cat__Model_Wagon R LXi LPG,7.374486698498021e-09
+cat__Model_Santro GL Plus,7.373652670514828e-09
+cat__Model_i10 Asta 1.2 AT with Sunroof,7.322272788466652e-09
+cat__Model_Etios Liva G,7.156993167218095e-09
+cat__Location_Faizabad,6.831775550546932e-09
+cat__Model_Alto 800 Lx CNG,6.76506785020262e-09
+cat__Model_Wagon R LXi Minor,6.572987621309246e-09
+cat__Model_Polo GT TDI,6.510884827025765e-09
+cat__Model_i20 Magna 1.4 CRDI,6.110140762801639e-09
+cat__Model_Estilo VXi,6.0608830949608145e-09
+cat__Model_Ciaz VDi (O) SHVS,5.248660925174831e-09
+cat__Model_Etios G,5.139078627443656e-09
+cat__Model_i20 Active 1.4 SX,5.127557903446249e-09
+cat__Model_Santro GLS,4.9886247501786945e-09
+cat__Model_Punto Active 1.3,4.940335065119761e-09
+cat__Model_S-Presso VXi AMT,4.809676075443192e-09
+cat__Model_Swift DZire LXi,4.643981643377241e-09
+cat__Model_Vento Highline Diesel,4.548268274773636e-09
+cat__Model_Jazz V Diesel,4.0234420828980575e-09
+cat__Model_Kwid RXT Opt,3.789560852823887e-09
+cat__Fuel Type_Cng + Cng,3.77647576321782e-09
+cat__Model_Figo Duratec Petrol ZXI 1.2,3.719424427309018e-09
+cat__Model_Ciaz ZDi (O) [2014-2015],3.605203405874481e-09
+cat__Model_i10 1.1L iRDE ERA Special Edition,3.008473113034715e-09
+cat__Model_KUV100 K6 D 6 STR [2016-2017],2.981486976342868e-09
+cat__Model_Quanto C4,2.865044184369594e-09
+cat__Model_Creta SX 1.6 CRDI,2.822057034591542e-09
+cat__Color_Pink,2.2338936002280594e-09
+cat__Model_i20 Sportz 1.2,1.5552218492207846e-09
+cat__Model_i10 Sportz 1.2 AT,1.0324298250800906e-09
+cat__Model_Etios V,1.028194794260331e-09
+cat__Model_Rapid Ambition 1.6 MPI AT Plus,8.155341997433099e-10

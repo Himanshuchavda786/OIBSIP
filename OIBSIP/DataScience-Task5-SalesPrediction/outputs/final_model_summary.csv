@@ -1,0 +1,7 @@
+Metric,Value
+Best Model,Random Forest
+MAE,0.6131
+RMSE,0.7403
+R² Score,0.9826
+Most Important Advertising Channel,TV
+Feature Importance,0.6254
